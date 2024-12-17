@@ -3,4 +3,6 @@ The code snippet is a batch script that scans a range of IP addresses by pinging
 -------------------------------------------------------------
 Plug and play
 ---------------------
+https://github.com/user-attachments/assets/6f44bfbb-f107-448d-80ae-f09952c9a99e
+
 
