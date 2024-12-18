@@ -3,7 +3,7 @@ The code snippet is a batch script that scans a range of IP addresses by pinging
 -------------------------------------------------------------
 git clone https://github.com/user-attachments/assets/6f44bfbb-f107-448d-80ae-f09952c9a99e
 ---------------------
-Make sure Python is installed on your system. You can download Python from python.org
+Make sure Python is installed on your system. You can download Python from [python.org](https://www.python.org/downloads/)
 ---------------------------
 
 
